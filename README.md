@@ -11,7 +11,7 @@
 </h1>
  
 <h3 align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=wekex.JsonLint" target="_blank">JsonLint</a> The JSON linter and validator </a> 
+    <a href="https://marketplace.visualstudio.com/items?itemName=wekex.JsonLint" target="_blank">JsonLint</a> is the JSON linter and validator </a> 
     <br>
 </h3>
  <h3 align="center">

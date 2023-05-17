@@ -1,7 +1,7 @@
 {
   "name": "JsonLint",
   "displayName": "JsonLint",
-  "description": "JsonLint is a simple way to take a beautiful snap of your code",
+  "description": "JsonLint is the JSON linter and validator",
   "version": "0.0.5",
   "publisher": "wekex",
   "icon": "icon.png",
@@ -65,6 +65,8 @@
     "JsonLint",
     "json",
     "valid json",
-    "beautify"
+    "beautify",
+    "formatter",
+    "linter"
   ]
 }
