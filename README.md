@@ -53,9 +53,20 @@
 
 **Tips: 💡**
 
-
 - If you'd like to assign a hotkey for JsonLint, go to your keyboard shortcut settings and bind the "JsonLint.launch" action to a custom key combination.
 - You may use this extension for validating JSON from VsCode terminal or debug console
+
+### 📋 JsonLint from Clipboard
+![JsonLint from Clipboard](https://raw.githubusercontent.com/wekex35/JsonLint/master/assets/jsonLint-clipboard-validate.gif)
+
+### 🖱️ Validate selected JSON
+![JsonLint from Clipboard](https://raw.githubusercontent.com/wekex35/JsonLint/master/assets/jsonLint-selection-based-validating.gif)
+
+### ♻️ Live Editing and formatting
+![Live Editing and formatting](https://raw.githubusercontent.com/wekex35/JsonLint/master/assets/jsonLint-auto-validate-live-edit.gif)
+
+### ✅ Auto-validate and font-size
+![Auto-validate and font-size](https://raw.githubusercontent.com/wekex35/JsonLint/master/assets/jsonLint-auto-validate-font-size.gif)
 
 
 ## How to Contribute
