@@ -120,7 +120,7 @@ function CodeEditor() {
           outline: 0
         }}
       />
-      
+       <ActionBar validateHandler={validateHandler}/>
       <div  className={`message ${errorMessage == "Valid Json" ? "message_valid" : "message_invalid"}`}>
         {errorMessage.split("\n").map((line) => <>{line}<br/></>)}
       </div>

@@ -1,2 +1,2 @@
-- Designed Updated
-- Minor bug fixes
+- Dual Action bar added
+- Code Reformatting
