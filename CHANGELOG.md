@@ -1,2 +1,1 @@
-- Dual Action bar added
-- Code Reformatting
+- Minor bug fixes

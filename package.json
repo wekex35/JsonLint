@@ -2,7 +2,7 @@
   "name": "JsonLint",
   "displayName": "JsonLint",
   "description": "JsonLint is the JSON linter and validator",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "wekex",
   "icon": "icon.png",
   "repository": {
